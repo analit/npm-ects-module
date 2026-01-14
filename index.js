@@ -5,11 +5,11 @@ class ECTS {
     ectsFromScore() {
         const map = {
             'A': [90, 100],
-            'B': [80, 89],
-            'C': [70, 79],
-            'D': [60, 69],
-            'E': [50, 59],
-            'F': [0, 49]
+            'B': [82, 89],
+            'C': [74, 81],
+            'D': [65, 73],
+            'E': [60, 64],
+            'F': [0, 59]
         };
 
         for (const [grade, [min, max]] of Object.entries(map)) {
