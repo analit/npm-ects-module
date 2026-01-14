@@ -14,7 +14,7 @@
     "url": "git+https://github.com/analit/npm-ects-module.git"
   },
   "license": "ISC",
-  "author": "serhii_hariaaha",
+  "author": "serhii_hariaaha <analit09@gmail.com>",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
